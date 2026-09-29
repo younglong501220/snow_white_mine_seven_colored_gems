@@ -1,0 +1,6 @@
+{
+  "name": "迪士尼夢幻星谷：白雪公主與七彩寶石礦坑",
+  "description": "走入迪士尼夢幻星谷！與白雪公主溫馨互動、組建七個小矮人礦坑探險隊挖掘七彩寶石、打造唯美城堡花園、烘烤星光蘋果派！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
